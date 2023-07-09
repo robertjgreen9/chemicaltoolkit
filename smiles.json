@@ -1,0 +1,529 @@
+{
+  "substances":
+  [
+    {
+      "name": "methane",
+      "smiles": "C"
+    },
+    {
+      "name": "ethane",
+      "smiles": "CC"
+    },
+    {
+      "name": "propane",
+      "smiles": "CCC"
+    },
+    {
+      "name": "butane",
+      "smiles": "CCCC"
+    },
+    {
+      "name": "pentane",
+      "smiles": "CCCCC"
+    },
+    {
+      "name": "hexane",
+      "smiles": "CCCCCC"
+    },
+    {
+      "name": "heptane",
+      "smiles": "CCCCCCC"
+    },
+    {
+      "name": "octane",
+      "smiles": "CCCCCCCC"
+    },
+    {
+      "name": "nonane",
+      "smiles": "CCCCCCCCC"
+    },
+    {
+      "name": "decane",
+      "smiles": "CCCCCCCCCC"
+    },
+    {
+      "name": "methanol",
+      "smiles": "CO"
+    },
+    {
+      "name": "ethanol",
+      "smiles": "CCO"
+    },
+    {
+      "name": "propanol",
+      "smiles": "CCCO"
+    },
+    {
+      "name": "butanol",
+      "smiles": "CCCCO"
+    },
+    {
+      "name": "pentanol",
+      "smiles": "CCCCCO"
+    },
+    {
+      "name": "hexanol",
+      "smiles": "CCCCCCO"
+    },
+    {
+      "name": "heptanol",
+      "smiles": "CCCCCCCO"
+    },
+    {
+      "name": "octanol",
+      "smiles": "CCCCCCCCO"
+    },
+    {
+      "name": "nonanol",
+      "smiles": "CCCCCCCCCO"
+    },
+    {
+      "name": "decanol",
+      "smiles": "CCCCCCCCCCO"
+    },
+    {
+      "name": "methanoic acid",
+      "smiles": "C(=O)O"
+    },
+    {
+      "name": "ethanoic acid",
+      "smiles": "CC(=O)O"
+    },
+    {
+      "name": "propanoic acid",
+      "smiles": "CCC(=O)O"
+    },
+    {
+      "name": "butanoic acid",
+      "smiles": "CCCC(=O)O"
+    },
+    {
+      "name": "pentanoic acid",
+      "smiles": "CCCCC(=O)O"
+    },
+    {
+      "name": "hexanoic acid",
+      "smiles": "CCCCCC(=O)O"
+    },
+    {
+      "name": "heptanoic acid",
+      "smiles": "CCCCCCC(=O)O"
+    },
+    {
+      "name": "octanoic acid",
+      "smiles": "CCCCCCCC(=O)O"
+    },
+    {
+      "name": "nonanoic acid",
+      "smiles": "CCCCCCCCC(=O)O"
+    },
+    {
+      "name": "decanoic acid",
+      "smiles": "CCCCCCCCCC(=O)O"
+    },
+    {
+      "name": "methanal",
+      "smiles": "C=O"
+    },
+    {
+      "name": "ethanal",
+      "smiles": "CC=O"
+    },
+    {
+      "name": "propanal",
+      "smiles": "CCC=O"
+    },
+    {
+      "name": "butanal",
+      "smiles": "CCCC=O"
+    },
+    {
+      "name": "pentanal",
+      "smiles": "CCCCC=O"
+    },
+    {
+      "name": "hexanal",
+      "smiles": "CCCCCC=O"
+    },
+    {
+      "name": "heptanal",
+      "smiles": "CCCCCCC=O"
+    },
+    {
+      "name": "octanal",
+      "smiles": "CCCCCCCC=O"
+    },
+    {
+      "name": "nonanal",
+      "smiles": "CCCCCCCCC=O"
+    },
+    {
+      "name": "decanal",
+      "smiles": "CCCCCCCCCC=O"
+    },
+    {
+      "name": "propanone",
+      "smiles": "CC(=O)C"
+    },
+    {
+      "name": "butanone",
+      "smiles": "CCC(=O)C"
+    },
+    {
+      "name": "pentanone",
+      "smiles": "CCCC(=O)C"
+    },
+    {
+      "name": "propanone",
+      "smiles": "CC(=O)C"
+    },
+    {
+      "name": "butan-2-one",
+      "smiles": "CCC(=O)C"
+    },
+    {
+      "name": "pentan-3-one",
+      "smiles": "CCC(=O)CC"
+    },
+    {
+      "name": "hexan-3-one",
+      "smiles": "CCCC(=O)CC"
+    },
+    {
+      "name": "heptan-4-one",
+      "smiles": "CCCC(=O)CCC"
+    },
+    {
+      "name": "octan-4-one",
+      "smiles": "CCCCC(=O)CCC"
+    },
+    {
+      "name": "nonan-5-one",
+      "smiles": "CCCCC(=O)CCCC"
+    },
+    {
+      "name": "decan-5-one",
+      "smiles": "CCCCCC(=O)CCCC"
+    },
+    {
+      "name": "chloromethane",
+      "smiles": "CCl"
+    },
+    {
+      "name": "chloroethane",
+      "smiles": "CCCl"
+    },
+    {
+      "name": "1-chloropropane",
+      "smiles": "CCCCl"
+    },
+    {
+      "name": "2-chloropropane",
+      "smiles": "CC(C)Cl"
+    },
+    {
+      "name": "1-chlorobutane",
+      "smiles": "CCCCCl"
+    },
+    {
+      "name": "2-chlorobutane",
+      "smiles": "CCC(C)Cl"
+    },
+    {
+      "name": "1-chloro-2-methylpropane",
+      "smiles": "CC(C)CCl"
+    },
+    {
+      "name": "2-chloro-2-methylpropane",
+      "smiles": "CC(C)(C)Cl"
+    },
+    {
+      "name": "1-chloropentane",
+      "smiles": "CCCCCCl"
+    },
+    {
+      "name": "cyclobutane",
+      "smiles": "C1CCC1"
+    },
+    {
+      "name": "cyclopentane",
+      "smiles": "C1CCCC1"
+    },
+    {
+      "name": "cyclohexane",
+      "smiles": "C1CCCCC1"
+    },
+    {
+      "name": "cycloheptane",
+      "smiles": "C1CCCCCC1"
+    },
+    {
+      "name": "cyclobutanol",
+      "smiles": "C1CC(C1)O"
+    },
+    {
+      "name": "cyclopentanol",
+      "smiles": "C1CCC(C1)O"
+    },
+    {
+      "name": "cyclohexanol",
+      "smiles": "C1CCC(CC1)O"
+    },
+    {
+      "name": "cycloheptanol",
+      "smiles": "C1CCCC(CC1)O"
+    },
+    {
+      "name": "cyclobutanone",
+      "smiles": "C1CC(=O)C1"
+    },
+    {
+      "name": "cyclopentanone",
+      "smiles": "C1CCC(=O)C1"
+    },
+    {
+      "name": "cyclohexanone",
+      "smiles": "C1CCC(=O)CC1"
+    },
+    {
+      "name": "cycloheptanone",
+      "smiles": "C1CCCC(=O)CC1"
+    },
+    {
+      "name": "methyl methanoate",
+      "smiles": "COC=O"
+    },
+    {
+      "name": "ethyl ethanoate",
+      "smiles": "CCOC(=O)C"
+    },
+    {
+      "name": "propyl propanoate",
+      "smiles": "CCCOC(=O)CC"
+    },
+    {
+      "name": "butyl butanoate",
+      "smiles": "CCCCOC(=O)CCC"
+    },
+    {
+      "name": "pentyl pentanoate",
+      "smiles": "CCCCCOC(=O)CCCC"
+    },
+    {
+      "name": "hexyl hexanoate",
+      "smiles": "CCCCCCOC(=O)CCCCC"
+    },
+    {
+      "name": "heptyl heptanoate",
+      "smiles": "CCCCCCCOC(=O)CCCCCC"
+    },
+    {
+      "name": "octyl octanoate",
+      "smiles": "CCCCCCCCOC(=O)CCCCCCC"
+    },
+    {
+      "name": "nonyl nonanoate",
+      "smiles": "CCCCCCCCCOC(=O)CCCCCCCC"
+    },
+    {
+      "name": "decyl decanoate",
+      "smiles": "CCCCCCCCCCOC(=O)CCCCCCCCC"
+    },
+    {
+      "name": "benzene",
+      "smiles": "C1=CC=CC=C1"
+    },
+    {
+      "name": "chlorobenzene",
+      "smiles": "C1=CC=C(C=C1)Cl"
+    },
+    {
+      "name": "1,2-dichlorobenzene",
+      "smiles": "C1=CC=C(C(=C1)Cl)Cl"
+    },
+    {
+      "name": "1,3-dichlorobenzene",
+      "smiles": "C1=CC(=CC(=C1)Cl)Cl"
+    },
+    {
+      "name": "1,4-dichlorobenzene",
+      "smiles": "C1=CC(=CC=C1Cl)Cl"
+    },
+    {
+      "name": "1,2,3-trichlorobenzene",
+      "smiles": "C1=CC(=C(C(=C1)Cl)Cl)Cl"
+    },
+    {
+      "name": "1,2,4-trichlorobenzene",
+      "smiles": "C1=CC(=C(C=C1Cl)Cl)Cl"
+    },
+    {
+      "name": "1,2,5-trichlorobenzene",
+      "smiles": "C1=CC(=C(C=C1Cl)Cl)Cl"
+    },
+    {
+      "name": "1,3,5-trichlorobenzene",
+      "smiles": "C1=C(C=C(C=C1Cl)Cl)Cl"
+    },
+    {
+      "name": "1,3,4-trichlorobenzene",
+      "smiles": "C1=CC(=C(C=C1Cl)Cl)Cl"
+    },
+    {
+      "name": "benzene",
+      "smiles": "C1=CC=CC=C1"
+    },
+    {
+      "name": "nitrobenzene",
+      "smiles": "C1=CC=C(C=C1)[N+](=O)[O-]"
+    },
+    {
+      "name": "1,2-dinitrobenzene",
+      "smiles": "C1=CC=C(C(=C1)[N+](=O)[O-])[N+](=O)[O-]"
+    },
+    {
+      "name": "1,3-dinitrobenzene",
+      "smiles": "C1=CC(=CC(=C1)[N+](=O)[O-])[N+](=O)[O-]"
+    },
+    {
+      "name": "1,4-dinitrobenzene",
+      "smiles": "C1=CC(=CC=C1[N+](=O)[O-])[N+](=O)[O-]"
+    },
+    {
+      "name": "1,2,3-trinitrobenzene",
+      "smiles": "C1=CC(=C(C(=C1)[N+](=O)[O-])[N+](=O)[O-])[N+](=O)[O-]"
+    },
+    {
+      "name": "1,2,4-trinitrobenzene",
+      "smiles": "C1=CC(=C(C=C1[N+](=O)[O-])[N+](=O)[O-])[N+](=O)[O-]"
+    },
+    {
+      "name": "1,3,5-trinitrobenzene",
+      "smiles": "C1=C(C=C(C=C1[N+](=O)[O-])[N+](=O)[O-])[N+](=O)[O-]"
+    },
+    {
+      "name": "toluene",
+      "smiles": "CC1=CC=CC=C1"
+    },
+    {
+      "name": "trinitrotoluene",
+      "smiles": "CC1=C(C=C(C=C1[N+](=O)[O-])[N+](=O)[O-])[N+](=O)[O-]"
+    },
+    {
+      "name": "methanenitrile",
+      "smiles": "C#N"
+    },
+    {
+      "name": "ethanenitrile",
+      "smiles": "CC#N"
+    },
+    {
+      "name": "propanenitrile",
+      "smiles": "CCC#N"
+    },
+    {
+      "name": "butanenitrile",
+      "smiles": "CCCC#N"
+    },
+    {
+      "name": "pentanenitrile",
+      "smiles": "CCCCC#N"
+    },
+    {
+      "name": "hexanenitrile",
+      "smiles": "CCCCCC#N"
+    },
+    {
+      "name": "heptanenitrile",
+      "smiles": "CCCCCCC#N"
+    },
+    {
+      "name": "octanenitrile",
+      "smiles": "CCCCCCCC#N"
+    },
+    {
+      "name": "nonanenitrile",
+      "smiles": "CCCCCCCCC#N"
+    },
+    {
+      "name": "decanenitrile",
+      "smiles": "CCCCCCCCCC#N"
+    },
+    {
+      "name": "aspirin",
+      "smiles": "CC(=O)OC1=CC=CC=C1C(=O)O"
+    },
+    {
+      "name": "2-hydroxybenzoic acid",
+      "smiles": "C1=CC=C(C(=C1)C(=O)O)O"
+    },
+    {
+      "name": "ethanoyl chloride",
+      "smiles": "CC(=O)Cl"
+    },
+    {
+      "name": "propanoyl chloride",
+      "smiles": "CCC(=O)Cl"
+    },
+    {
+      "name": "butanoyl chloride",
+      "smiles": "CCCC(=O)Cl"
+    },
+    {
+      "name": "pentanoyl chloride",
+      "smiles": "CCCCC(=O)Cl"
+    },
+    {
+      "name": "hexanoyl chloride",
+      "smiles": "CCCCCC(=O)Cl"
+    },
+    {
+      "name": "heptanoyl chloride",
+      "smiles": "CCCCCCC(=O)Cl"
+    },
+    {
+      "name": "octanoyl chloride",
+      "smiles": "CCCCCCCC(=O)Cl"
+    },
+    {
+      "name": "nonanoyl chloride",
+      "smiles": "CCCCCCCCC(=O)Cl"
+    },
+    {
+      "name": "decanoyl chloride",
+      "smiles": "CCCCCCCCCC(=O)Cl"
+    },
+    {
+      "name": "ethene",
+      "smiles": "C=C"
+    },
+    {
+      "name": "propene",
+      "smiles": "CC=C"
+    },
+    {
+      "name": "butene",
+      "smiles": "CCC=C"
+    },
+    {
+      "name": "pentene",
+      "smiles": "CCCC=C"
+    },
+    {
+      "name": "hexene",
+      "smiles": "CCCCC=C"
+    },
+    {
+      "name": "heptene",
+      "smiles": "CCCCCC=C"
+    },
+    {
+      "name": "octene",
+      "smiles": "CCCCCCC=C"
+    },
+    {
+      "name": "nonene",
+      "smiles": "CCCCCCCC=C"
+    }
+  ]
+}
